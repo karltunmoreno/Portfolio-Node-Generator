@@ -1,7 +1,20 @@
 # Portfolio-Node-Generator
 
-If anyone ever wants to look at the application, they'll have to clone it to their own local machine and run it from there, so it's really important you create a solid README.md file with instructions and explanations for how to use this application.
-________________________________________________________________________________________________________________________________________________________________
+NOTE :: If anyone ever wants to look at the application, they'll have to clone it to their own local machine and run it from there, so it's really important you create a solid README.md file with instructions and explanations for how to use this application.Also must use Node.js commands to run.
+Use documentaion:     https://nodejs.org/en/
+
+1. npm init
+
+2.npm install
+
+3. npm install
+
+
+___________________________________________________________________________________________________________________________________________________________________
+
+![Ss](https://media-exp1.licdn.com/dms/image/C5622AQGqH7erBcbOtA/feedshare-shrink_800/0/1664766752580?e=1667433600&v=beta&t=iGmtd2wNHml2RVx3v5PGiNIr1pI-f0lcm0Zr6IHEJT8)
+
+__________________________________________________________________________________________________________________________________________________________________
 ##Tech Used:
 
   
