@@ -14,7 +14,7 @@ Use documentaion:     https://nodejs.org/en/
 
 ___________________________________________________________________________________________________________________________________________________________________
 
-![Ss](https://media-exp1.licdn.com/dms/image/C5622AQGqH7erBcbOtA/feedshare-shrink_800/0/1664766752580?e=1667433600&v=beta&t=iGmtd2wNHml2RVx3v5PGiNIr1pI-f0lcm0Zr6IHEJT8)
+![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/portpic.jpg)
 
 __________________________________________________________________________________________________________________________________________________________________
 ##Tech Used:
