@@ -2,7 +2,8 @@
 
 
 
-NOTE :: If anyone ever wants to look at the application, they'll have to clone it to their own local machine and run it from there, so it's really important you create a solid README.md file with instructions and explanations for how to use this application.Also must use Node.js commands to run.
+NOTE :: If anyone ever wants to look at the application, they'll have to clone it to their own local machine and run it from there. 
+To Use this application you must use Node.js commands to run.
 Use documentaion:     https://nodejs.org/en/
 
 1. npm init
